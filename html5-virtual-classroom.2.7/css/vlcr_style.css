@@ -1,0 +1,617 @@
+.center img {
+    height: 20px;
+    width: 20px;
+}
+ul#vc-items li {
+    display: inline-block;
+    float: left;
+    margin-bottom: 10px;
+    position: relative;
+    text-align: center;
+    width: 20%;
+}
+
+#vc-panel ul#vc-items,
+#vc-panel ul#vc-items li {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: medium none;
+    clear: none;
+    list-style: outside none none;
+    overflow: visible;
+    padding: 0;
+}
+
+#vc-panel ul#vc-items li a {
+    background: -moz-linear-gradient(center top, #fafafa 0%, #eeeeee 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px #f5f5f5;
+    display: block;
+    height: 80px;
+    margin-right: 10px;
+    padding: 10px;
+    position: relative;
+}
+
+#vc-panel ul#vc-items li a img {
+    padding-top: 12px;
+}
+
+#vc-panel ul#vc-items li a .item-title {
+    color: #666666;
+    font-size: 12px !important;
+    font-weight: 700;
+    line-height: 23px;
+}
+
+.version_latest {
+    color: #390 !important;
+    float: right;
+}
+
+.span1.hasTip {
+    float: left;
+    width: 144px;
+}
+
+.recurring_class {
+    display: none;
+}
+
+.control-group {
+    padding: 10px;
+    clear: both;
+}
+
+.error2 {
+    border: 2px solid red !important;
+}
+
+#adminForm input,
+select {
+    display: inline-block;
+    margin: 0 5px 0 0;
+    vertical-align: top;
+}
+
+#currencycontainer .control-label.hasTip {
+    float: left;
+    width: 144px;
+}
+
+.add-on {
+    background: none repeat scroll 0 0 #fafafa;
+    border: 1px solid #cccccc;
+    color: #666666;
+    display: inline-block;
+    font-size: 13px;
+    height: 18px;
+    line-height: 18px;
+    padding: 4px;
+}
+
+.item-title {
+    display: block;
+}
+
+.version_latest {
+    float: right;
+    margin-right: 33px;
+}
+
+#vc-items .item-title>span {
+    font-size: 14px;
+}
+
+.version_latest {
+    color: #390 !important;
+    float: right;
+}
+
+#vc-items li a {
+    background: -moz-linear-gradient(center top, #fafafa 0%, #eeeeee 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px #f5f5f5;
+    display: block;
+    height: 80px;
+    margin-right: 10px;
+    padding: 10px;
+    position: relative;
+}
+
+#vc-items li {
+    display: inline-block;
+    float: left;
+    margin-bottom: 10px;
+    position: relative;
+    text-align: center;
+    width: 20%;
+}
+
+.weekdays_label>label {
+    border: 1px solid;
+    cursor: pointer;
+    float: left;
+    font-size: 16px;
+    margin: 5px;
+    text-align: center;
+    width: 40px;
+
+}
+
+.weekdays_label label.active {
+    color: red;
+}
+
+#toplevel_page_virtualclassroom-vc_setup .wp-first-item {
+    display: none;
+}
+
+.pagination {
+    margin: 20px 0;
+}
+
+.pagination ul {
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    display: inline-block;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+.pagination ul>li {
+    display: inline;
+}
+
+.pagination ul>li>a,
+.pagination ul>li>span {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px 1px 1px 0;
+    float: left;
+    line-height: 20px;
+    padding: 4px 12px;
+    text-decoration: none;
+}
+
+.pagination ul>li>a,
+.pagination ul>li>span {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px 1px 1px 0;
+    float: left;
+    line-height: 20px;
+    padding: 4px 12px;
+    text-decoration: none;
+}
+
+.entry-content {
+    clear: both;
+    float: none !important;
+    margin: 0 !important;
+}
+
+/*.vc-alert-danger {
+    background-image: linear-gradient(to bottom, #f2dede 0px, #e7c3c3 100%);
+    background-repeat: repeat-x;
+    border:solid 1px #dca7a7;
+
+}*/
+.vc-alert {
+    border-radius: 0.25em;
+    color: #ffffff;
+    display: inline;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    padding: 0.2em 0.6em 0.3em;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+    {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+
+.vc-alert-danger,
+.alert-error {
+    /*Shaista
+    background-color: #d9534f;
+    color: #FFFFFF; */
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+
+.vc-alert-warning {
+    /*Shaista
+   background-color: #f0ad4e;
+   color: #FFFFFF;
+   */
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+}
+
+.vc-alert-success {
+    /*Shaista
+    background-color: #5cb85c;
+   color: #FFFFFF; */
+
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+.dropbtn {
+
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    padding: 5px 0;
+    min-width: 225px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    right: 0;
+    left: auto;
+    font-size: 14px;
+    background-clip: padding-box;
+    background-color: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.176);
+    list-style: outside none none;
+    margin: 2px 0 0;
+}
+
+.dropdown-content .divider {
+    background-color: #e5e5e5;
+    height: 1px;
+    margin: 9px 0;
+    overflow: hidden;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 3px 20px;
+    text-decoration: none;
+    display: block;
+}
+
+.caret {
+    border-left: 4px solid rgba(0, 0, 0, 0);
+    border-right: 4px solid rgba(0, 0, 0, 0);
+    border-top: 4px dashed;
+    display: inline-block;
+    height: 0;
+    margin-left: 2px;
+    vertical-align: middle;
+    width: 0;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #337ab7;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {
+    display: block;
+}
+
+#vlrc_inviteform th {
+    width: 100px;
+}
+
+.btn-primary {
+    background-color: #3b4c5c;
+    border: 2px solid #3b4c5c;
+    color: #f3f4f5;
+}
+
+.btn {
+    -moz-user-select: none;
+    background-image: none;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857;
+    margin-bottom: 0;
+    padding: 6px 12px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    /*background-color: #218380;  Shaista*/
+    background-color: #3b4c5c;
+    /* Shaista*/
+    color: #fff !important;
+}
+
+.btn-buy .btn-launch {
+    -moz-user-select: none;
+    background-image: none;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857;
+    /*margin-bottom: 0;   -Shaista*/
+    padding: 6px 12px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    /*background-color: #218380;  Shaista*/
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #3b4c5c;
+    /* Shaista*/
+}
+
+.btn-buy:hover {
+    background: #218380 !important;
+}
+
+.btn-launch:hover {
+    background: #ef626c !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active {
+    background-color: #e74c3c;
+    border-color: #e74c3c;
+    color: #ffffff;
+}
+
+.l-preview h6 {
+    font-size: 20px;
+}
+
+.controls #location_id,
+.controls #title {
+    width: 41%;
+}
+
+.site.pagination::before,
+.site.pagination::after {
+    background: none;
+}
+
+.well {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.site.pagination.pagination-toolbar {
+    text-align: center;
+    border-top: none;
+}
+
+.class-detail .well.col-md-8 h6 {
+    margin: 0px;
+    line-height: 34px;
+    /*font-size: 16px;*/
+    font-size: 20px;
+    padding-bottom: 10px;
+    color: rgb(38, 47, 56);
+}
+
+.invstu .well.col-md-8 h6 {
+    margin: 0px;
+    line-height: 34px;
+}
+
+.class_div.cl_list {
+    margin-bottom: 1.75em;
+
+    /* margin-bottom: 8px; */
+    font-size: 14.5px;
+    line-height: 20px;
+    background-color: #fff;
+}
+
+
+.class-heading {
+    font-size: 18px !important;
+    font-family: Helvetica, arial, sans-serif;
+    font-weight: 500;
+    color: #333;
+}
+
+.course_info {
+    padding-top: 12px;
+}
+
+.course_info p {
+    line-height: 20px;
+    margin: 0 0 10px 0;
+    font-size: 14.5px;
+    font-weight: 500;
+}
+
+.vc_tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.vc_tooltip .vc_tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.vc_tooltip:hover .vc_tooltiptext {
+    visibility: visible;
+}
+
+.btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+
+.vctitlepink {
+    color: rgb(173, 0, 87);
+}
+
+.datecalrow {
+    font-size: 15px;
+    font-weight: 700;
+    word-break: break-word;
+}
+
+.class-status {
+    /* float: right; 
+    margin-top: -21px; */
+    font-size: 16px;
+}
+
+.status-div {
+    width: 20%;
+    float: left;
+    text-align: right;
+    line-height: 57px;
+}
+
+.class-details-title {
+    font-size: 33px;
+    font-weight: bold;
+    border-bottom: 4px solid #dedee2;
+}
+
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#adminForm.vlcr_class_schedule .controls input[type="radio"] {
+    vertical-align: middle;
+}
+
+.vlcr_class_schedule .span1.hasTip {
+    width: 200px;
+}
+
+.vlcr_class_schedule .add-on {
+    margin-left: -5px;
+    height: 42px;
+    line-height: 31px;
+}
+
+div.error p {
+    margin: 0;
+}
+
+div.error {
+    background: #fff;
+    border-left: 4px solid #dc3232;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+    margin: 5px 15px 2px;
+    padding: 1px 12px;
+}
+
+.dropdown .dropdown-content li a {
+    box-shadow: none;
+}
